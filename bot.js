@@ -2,7 +2,7 @@
 //copyright © Angry Black 2020.//❦Angry Black❦
 
 const Discord = require("discord.js");
-const myid = ['656504384997425152'];//هنا بتحط الايدى بتاعك بتاع الديسكورد
+const myid = ['519761918454398986'];//هنا بتحط الايدى بتاعك بتاع الديسكورد
 const client = new Discord.Client();
 const client2 = new Discord.Client();
 const client3 = new Discord.Client();
