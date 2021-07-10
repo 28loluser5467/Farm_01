@@ -3,7 +3,7 @@
 
 const Discord = require("discord.js");
 const myid = [519761918454398986];//هنا بتحط الايدى بتاعك بتاع الديسكورد
-const client = new Discord.Client(NzkwNjI0NjMzMDc3MzY2Nzk0.YLvNhQ.28sgfwnGMHKSijz101uWIckptHs);
+const client = new Discord.Client();
 const client2 = new Discord.Client();
 const client3 = new Discord.Client();
 const client4 = new Discord.Client();
